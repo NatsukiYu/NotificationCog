@@ -5,7 +5,7 @@ with open('requirements.txt', 'r') as fp:
 
 setup(
     name='NotificationCog',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT',
     description='Send a notification when someone join/leave a voice channel.',
     author='@natsuki__yu',

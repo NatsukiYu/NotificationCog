@@ -1,6 +1,6 @@
 = NotificationCog
 夏木 悠 <@natsuki__yu>
-v1.0.0 2021-09-03
+v1.0.1 2021-09-03
 
 :toc:
 :toc-title: 目次
