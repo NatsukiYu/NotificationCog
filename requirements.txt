@@ -1,0 +1,2 @@
+setuptools~=57.0.0
+discord.py~=1.7.3
